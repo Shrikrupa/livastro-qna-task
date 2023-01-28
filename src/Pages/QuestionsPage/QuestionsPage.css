@@ -1,0 +1,46 @@
+
+.container {
+    background-color: white;
+    padding: 3rem;
+    width: 42rem;
+    height: 18rem;
+    align-self: center;
+}
+
+.normalButton {
+    font-size: 0.9rem;
+    border-color: rgb(212, 24, 109);
+    font-weight: bold;
+    border-width: 0.2rem;
+    padding: 0rem;
+    width: 5rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+    margin: 0.4rem;
+    cursor: pointer;
+  }
+
+  .submitButton {
+    font-size: 0.9rem;
+    color: white;
+    background-color: rgb(212, 24, 109);
+    font-weight: bold;
+    border-width: 0.2rem;
+    border-color: rgb(212, 24, 109);
+    padding: 0rem;
+    width: 6rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+    margin: 0.4rem;
+    cursor: pointer;
+  }
+ 
+  .appBackground {
+    background-color: rgba(225, 226, 228, 0.806);
+    padding: 5rem 10rem;
+    margin: 4rem 10rem;
+    text-align: center;
+    height: 25rem;
+  }
